@@ -1,0 +1,31 @@
+{
+  "name": "ts-proj-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DdZ-Fred/ts-proj-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DdZ-Fred/ts-proj-1/issues"
+  },
+  "homepage": "https://github.com/DdZ-Fred/ts-proj-1#readme",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "typescript": "^1.8.10"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2",
+    "tslint": "^3.8.1",
+    "tslint-config-unional": "^0.2.5"
+  }
+}
